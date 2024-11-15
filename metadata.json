@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "kartik",
+        "Name": "kartik.sindura@gmail.com"
+      }
+    ],
+    "Category": "",
+    "Description": "Fishbowl for Plasma 6",
+    "Id": "fishy",
+    "License": "GPLv2+",
+    "Name": "Fishbowl"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2"
+}

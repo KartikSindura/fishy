@@ -66,8 +66,8 @@ Rectangle {
             paused: false
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
-            width:  imageSoure.sizeAnim - 2
-            height: imageSoure.sizeAnim - 2
+            width:  imageSource.sizeAnim - 2
+            height: imageSource.sizeAnim - 2
             smooth: true
             visible: true
          }
